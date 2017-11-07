@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LengthConverter</string>
+    <string name="app_title">Length Converter (acj0008)</string>
+    <string name="app_instructions">Enter length for known unit and others are calculated.</string>
+</resources>
